@@ -1,0 +1,17 @@
+body {
+    margin-top: 70px;
+    background: url(../img/bg.png);
+}
+
+.kata-sym {
+    height: 40px;
+    width: 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    #font-family: 'Comfortaa', cursive;
+}

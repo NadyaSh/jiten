@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<div class="panel panel-success">
+  <div class="panel-body">
+    <ul>
+      {% for sub in subwords %}
+        <li>
+        <h3><a href="{% url 'subwords' sub.ext_of.id %}">{{ sub.word_jap }}</a>
+            <small><a href="{% url 'level' sub.level %}"><span class="glyphicon glyphicon-star"></span> {{ sub.level }}</small></a></h3>
+          <p>{{ sub.description|linebreaks }}</p>
+        </li>
+        <hr>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endblock content %}

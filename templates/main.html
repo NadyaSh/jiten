@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<div class="panel panel-success">
+  <div class="panel-body">
+    <ul>
+      {% for symbol in symbols %}
+        <li>
+        <div class="kata-sym" style="background-image: url({% static 'img/hiragana-chart.gif' %}); background-position: -14px -{{ symbol.img_offset }}px;"></div>
+        {% for word in symbol.words.all %}
+          <a href="{% url 'subwords' word.id %}" class="btn btn-default">{{ word.word_jap }}</a>
+          {% endfor %}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+{% endblock content %}
