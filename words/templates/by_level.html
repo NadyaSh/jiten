@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block menu %}
+  <div class="col-sm-2 hidden-xs">
+      <div class="list-group text-center">
+      <a href="/" class="list-group-item{% if not level %} active{% endif %}">Все</a>
+      {% for cn in count_by_level|dictsortreversed:"level" %}
+          <a class="list-group-item {% if level == cn.level %}active{% endif %}{% if cn.count == 0 %} disabled{% endif %}" href="{% if cn.count > 0 %}{% url 'level' cn.level %}{% else %}#{% endif %}">Уровень<br>N{{cn.level}}</a>
+      {% endfor %}
+      </div>
+  </div><!-- /.col-sm-2 -->
+{% endblock menu %}
+
+{% block content %}
+<div class="col-sm-10">
+  <div class="panel panel-success">
+    <div class="panel-body">
+
+      <ul class="nav nav-tabs top-menu">
+      <li role="presentation" class="{% if not level %}active{% endif %}"><a href="/">Все</a></li>
+      {% for cn in count_by_level|dictsortreversed:"level" %}
+        <li role="presentation" class="{% if level == cn.level %}active{% endif %}{% if cn.count == 0 %} disabled{% endif %}"><a href="{% if cn.count > 0 %}{% url 'level' cn.level %}{% else %}#{% endif %}">N{{cn.level}}</a></li>
+      {% endfor %}
+        </ul>
+
+
+      {% for w in words %}
+      {% ifchanged w.ext_of %}
+        <div class="kata-sym" style="background-image: url({% static 'img/hiragana-chart.png' %}); background-position: -14px -{{ w.ext_of.img_offset }}px;"></div>
+      {% endifchanged %}
+      <a href="{% url 'subwords' w.id %}" class="btn btn-default">{{ w.word_jap }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endblock content %}

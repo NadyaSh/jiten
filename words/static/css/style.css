@@ -1,0 +1,64 @@
+body {
+    margin-top: 70px;
+    background: url(../img/bg.png);
+}
+
+.kata-sym {
+    height: 40px;
+    width: 40px;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    #font-family: 'Comfortaa', cursive;
+}
+
+.flower-bg {
+    background-image: url(../img/flower.png); /* Путь к фоновому рисунку */
+    background-position: right bottom; /* Положение фона */
+    background-repeat: no-repeat; /* Отменяем повторение фона */
+    background-size: 50% 50%; /* Масштабируем фон */
+}
+
+@font-face {
+    font-family: AdobeKaitiStd; /* Имя шрифта */
+    src: url(../fonts/AdobeKaitiStd-Regular.otf); /* Путь к файлу со шрифтом */
+}
+
+@font-face {
+    font-family: Pattaya; /* Имя шрифта */
+    src: url(../fonts/Pattaya-Regular.ttf); /* Путь к файлу со шрифтом */
+}
+.list-group, h1, .top-menu, .back-link, .panel-success em {
+    font-family: Pattaya;
+}
+
+.list-group{
+    font-size: 18px;
+}
+
+.navbar, .navbar-brand {
+    font-size: 26px;
+}
+
+.panel-success {
+    font-size: 16px;
+}
+
+.panel-success, .navbar {
+    font-family: AdobeKaitiStd;
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .top-menu {
+        display: none;
+
+    }
+}
+
+

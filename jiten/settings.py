@@ -25,7 +25,7 @@ SECRET_KEY = 'dnx6--bx(z#votb&dhhlh4#)f6zhtr+_^5h=th^r&9j3)fpzf-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['192.168.5.90', 'localhost']
+ALLOWED_HOSTS = ['192.168.5.90', 'localhost', 'elion.pythonanywhere.com']
 INTERNAL_IPS = ['127.0.0.1']
 
 
@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'debug_toolbar',
     'words',
+    'precise_bbcode',
 ]
 
 MIDDLEWARE = [
@@ -121,9 +122,7 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.10/howto/static-files/
 
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "static"),
-]
 
 
+STATIC_ROOT = os.path.join(BASE_DIR, "static")
 STATIC_URL = '/static/'

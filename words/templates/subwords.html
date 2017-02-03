@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load bbcode_tags %}
+
+{% block content %}
+<div class="col-sm-12">
+  <div class="panel panel-success">
+    <div class="panel-body">
+      <ul>
+        {% for sub in subwords %}
+          <li>
+            <a href="/" class="pull-right back-link"><span class="glyphicon glyphicon-arrow-left"></span> Назад</a>
+          <h3><a href="{% url 'subwords' sub.ext_of.id %}">{{ sub.word_jap }}</a>
+            <small><a href="{% url 'level' sub.level %}"><span class="glyphicon glyphicon-star"></span> {{ sub.level }}</small></a></h3>
+            <p>{{ sub.description|bbcode|safe }}</p>
+          </li>
+          <hr>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+</div>
+{% endblock content %}
