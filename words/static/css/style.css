@@ -13,14 +13,14 @@ ul {
 }
 
 h1 {
-    #font-family: 'Comfortaa', cursive;
+	color: #333;
 }
 
 .flower-bg {
     background-image: url(../img/flower.png); /* Путь к фоновому рисунку */
     background-position: right bottom; /* Положение фона */
     background-repeat: no-repeat; /* Отменяем повторение фона */
-    background-size: 50% 50%; /* Масштабируем фон */
+    background-size: 340px 270px; /* Масштабируем фон */
 }
 
 @font-face {
@@ -32,8 +32,12 @@ h1 {
     font-family: Pattaya; /* Имя шрифта */
     src: url(../fonts/Pattaya-Regular.ttf); /* Путь к файлу со шрифтом */
 }
-.list-group, h1, .top-menu, .back-link, .panel-success em {
+.list-group, h1, .mobile-hide, .back-link, .panel-success em {
     font-family: Pattaya;
+}
+
+em {
+	font-style: normal;
 }
 
 .list-group{
@@ -55,10 +59,27 @@ h1 {
 
 
 @media screen and (min-width: 768px) {
-    .top-menu {
+    .mobile-hide {
         display: none;
-
     }
 }
 
+.kanji-list-itm img {
+    margin: auto;
+    width: 75px;
+    #height: 60px;
+    margin-bottom: 5px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.5);
+}
 
+.kanji-list-itm img:hover {
+    box-shadow: 0 0 4px rgba(255,0,0,0.5);
+}
+
+.panel-success {
+    min-height: 402px;
+}
+
+.panel .btn-default {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load bbcode_tags %}
+
+{% block content %}
+<div class="col-sm-12">
+  <div class="panel panel-success">
+    <div class="panel-body">
+        <img src="{% static kanji.get_url %}" alt="">
+        <h3><em>Китайское чтение: </em><br>{{ kanji.onYomi|bbcode|safe }}</h3>
+        <h3><em>Японское чтение: </em><br>{{ kanji.kunYomi|bbcode|safe }}</h3>
+        <h3><em>Примеры использования:</em></h3>
+        <p>{{ kanji.description|bbcode|safe }}</p>
+    </div>
+  </div>
+</div>
+{% endblock content %}

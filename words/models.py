@@ -27,5 +27,24 @@ class SubWord(models.Model):
     def __str__(self):
         return self.word_jap
 
+class Kanji(models.Model):
+    name = models.CharField(max_length=5, default='')
+    level = models.IntegerField()
+    file_name = models.CharField(max_length=300)
+    onYomi = models.CharField(max_length=300, blank=True)
+    kunYomi = models.CharField(max_length=300, blank=True)
+    description = models.TextField(blank=True)
+
+    def __str__(self):
+        return self.name
+
+    def get_url(self):
+        return 'img/kanji/%s/%s.gif' % (self.level, self.file_name)
+
+    def get_static_url(self):
+        return 'img/kanji/%s_static/%s_still.gif' % (self.level, self.file_name)
+
+    def get_absolute_url(self):
+        return reverse('kanji', kwargs={'id': self.id})
 
 # Create your models here.

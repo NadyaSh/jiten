@@ -31,12 +31,11 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="/">初め</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li><a href="/">漢字</a></li>
-            <li class="active"><a href="/">文型辞典</a></li>
+            <li {% if section == 'jiten' %}class="active"{% endif %}><a href="/">文型辞典</a></li>
+            <li {% if section == 'kanji' %}class="active"{% endif %}><a href="{% url 'kanji_by_level' 5 %}">漢字</a></li>
             <!--<li><a href="#contact">Contact</a></li>-->
             <!--<li class="dropdown">-->
               <!--<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>-->
@@ -68,8 +67,8 @@
         {% endblock content %}
       </div>
 
-      <div class="well">
-      </div>
+      <!--<div class="well">-->
+      <!--</div>-->
 
 
     </div> <!-- /container -->
