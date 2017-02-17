@@ -17,14 +17,15 @@ from django.conf.urls import url, include
 from django.contrib import admin
 from django.conf import settings
 from django.conf.urls.static import static
+from django.views.decorators.cache import cache_page
 from words.views import TitleView, SubWordsView, LevelView, KanjiByLevel, KanjiDetail
 
 urlpatterns = [
     url(r'^$', TitleView.as_view(), name='title'),
-    url(r'^kanji/level/(?P<level>[0-9]+)/$', KanjiByLevel.as_view(), name='kanji_by_level'),
-    url(r'^kanji/(?P<id>[0-9]+)/$', KanjiDetail.as_view(), name='kanji'),
-    url(r'^subwords/(?P<id>[0-9]+)/$', SubWordsView.as_view(), name='subwords'),
-    url(r'^level/(?P<level>[0-9]+)/$', LevelView.as_view(), name='level'),
+    url(r'^kanji/level/(?P<level>[0-9]+)/$', cache_page(60 * 15)(KanjiByLevel.as_view()), name='kanji_by_level'),
+    url(r'^kanji/(?P<id>[0-9]+)/$', cache_page(60 * 15)(KanjiDetail.as_view()), name='kanji'),
+    url(r'^subwords/(?P<id>[0-9]+)/$', cache_page(60 * 15)(SubWordsView.as_view()), name='subwords'),
+    url(r'^level/(?P<level>[0-9]+)/$', cache_page(60 * 15)(LevelView.as_view()), name='level'),
     url(r'^admin/', admin.site.urls),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 

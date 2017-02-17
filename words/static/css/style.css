@@ -24,8 +24,8 @@ h1 {
 }
 
 @font-face {
-    font-family: AdobeKaitiStd; /* Имя шрифта */
-    src: url(../fonts/AdobeKaitiStd-Regular.otf); /* Путь к файлу со шрифтом */
+    font-family: irohamaru; /* Имя шрифта */
+    src: url(../fonts/irohamaru-mikami-Regular.ttf); /* Путь к файлу со шрифтом */
 }
 
 @font-face {
@@ -52,8 +52,8 @@ em {
     font-size: 16px;
 }
 
-.panel-success, .navbar {
-    font-family: AdobeKaitiStd;
+.panel-success {
+    font-family: irohamaru;
 }
 
 

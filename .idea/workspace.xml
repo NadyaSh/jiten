@@ -2,228 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d95cbe80-235b-4fa2-9957-fd47fb3d8efa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E00.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E03.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E07.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E09.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E0A.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E0B.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E2D.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E5D.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E8C.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4E94.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4EBA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4ECA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4F11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4F1A.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/4F55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5148.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5165.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/516B.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/516D.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5186.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/51FA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5206.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/524D.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5317.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5341.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5343.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5348.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/534A.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5357.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/53CB.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/53E3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/53E4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/53F3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/540D.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/56DB.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/56FD.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/571F.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5916.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/591A.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5927.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5929.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5973.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5B50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5B66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5B89.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5C0F.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5C11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5C71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5DDD.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5DE6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5E74.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5E97.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/5F8C.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/624B.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/65B0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/65E5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6642.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/66F8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6708.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6728.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/672C.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6765.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6771.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6821.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6BCD.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6BCE.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6C17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/6C34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/706B.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/7236.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/751F.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/7537.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/767D.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/767E.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/76EE.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/793E.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/7A7A.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/7ACB.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/8033.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/805E.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/82B1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/884C.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/897F.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/898B.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/8A00.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/8A71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/8A9E.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/8AAD.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/8CB7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/8DB3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/8ECA.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/9031.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/9053.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/91D1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/9577.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/9593.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/96E8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/96FB.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/98DF.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/98F2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/99C5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/9AD8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5/9B5A.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E00_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E03_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E07_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E09_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E0A_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E0B_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E2D_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E5D_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E8C_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4E94_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4EBA_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4ECA_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4F11_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4F1A_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/4F55_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5148_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5165_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/516B_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/516D_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5186_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/51FA_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5206_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/524D_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5317_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5341_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5343_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5348_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/534A_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5357_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/53CB_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/53E3_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/53E4_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/53F3_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/540D_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/56DB_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/56FD_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/571F_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5916_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/591A_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5927_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5929_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5973_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5B50_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5B66_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5B89_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5C0F_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5C11_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5C71_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5DDD_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5DE6_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5E74_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5E97_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/5F8C_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/624B_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/65B0_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/65E5_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6642_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/66F8_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6708_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6728_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/672C_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6765_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6771_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6821_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6BCD_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6BCE_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6C17_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/6C34_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/706B_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/7236_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/751F_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/7537_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/767D_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/767E_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/76EE_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/793E_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/7A7A_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/7ACB_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/8033_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/805E_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/82B1_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/884C_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/897F_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/898B_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/8A00_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/8A71_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/8A9E_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/8AAD_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/8CB7_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/8DB3_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/8ECA_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/9031_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/9053_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/91D1_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/9577_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/9593_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/96E8_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/96FB_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/98DF_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/98F2_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/99C5_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/9AD8_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/static/img/kanji/5_static/9B5A_still.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/migrations/0002_kanji.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/migrations/0003_kanji_name.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/templates/kanji_by_level.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/words/templates/kanji_detail.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/words/static/fonts/AdobeKaitiStd-Regular.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/words/static/fonts/Ming Imperial.TTF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/words/static/fonts/fontasia.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/words/static/fonts/fontasia2.ttf" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jiten/settings.py" afterPath="$PROJECT_DIR$/jiten/settings.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jiten/urls.py" afterPath="$PROJECT_DIR$/jiten/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/words/admin.py" afterPath="$PROJECT_DIR$/words/admin.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/words/models.py" afterPath="$PROJECT_DIR$/words/models.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/words/static/css/style.css" afterPath="$PROJECT_DIR$/words/static/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/words/templates/base.html" afterPath="$PROJECT_DIR$/words/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/words/templates/by_level.html" afterPath="$PROJECT_DIR$/words/templates/by_level.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/words/templates/main.html" afterPath="$PROJECT_DIR$/words/templates/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/words/views.py" afterPath="$PROJECT_DIR$/words/views.py" />
     </list>
     <ignored path="jiten.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -302,11 +89,9 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jiten/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="23" column="89" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="89" />
-              <folding>
-                <element signature="e#639#680#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="306">
+              <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -321,11 +106,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/words/static/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+            <state relative-caret-position="1088">
+              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jiten/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -363,16 +158,16 @@
         <option value="$PROJECT_DIR$/templates/main.html" />
         <option value="$PROJECT_DIR$/words/templates/main.html" />
         <option value="$PROJECT_DIR$/words/templates/by_level.html" />
-        <option value="$PROJECT_DIR$/jiten/settings.py" />
         <option value="$PROJECT_DIR$/words/templates/subwords.html" />
         <option value="$PROJECT_DIR$/words/admin.py" />
-        <option value="$PROJECT_DIR$/jiten/urls.py" />
         <option value="$PROJECT_DIR$/words/models.py" />
         <option value="$PROJECT_DIR$/words/templates/kanji_detail.html" />
         <option value="$PROJECT_DIR$/words/views.py" />
         <option value="$PROJECT_DIR$/words/templates/base.html" />
         <option value="$PROJECT_DIR$/words/templates/kanji_by_level.html" />
         <option value="$PROJECT_DIR$/words/static/css/style.css" />
+        <option value="$PROJECT_DIR$/jiten/settings.py" />
+        <option value="$PROJECT_DIR$/jiten/urls.py" />
       </list>
     </option>
   </component>
@@ -426,6 +221,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -447,60 +243,9 @@
               <option name="myItemId" value="jiten" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jiten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jiten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jiten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="words" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jiten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jiten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="words" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jiten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jiten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jiten" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -679,19 +424,26 @@
       <option name="project" value="LOCAL" />
       <updated>1486128528758</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Мелкие правки дизайна. Добавлены кандзи.">
+      <created>1486727593820</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1486727593820</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.50316125" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.49683878" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.49683878" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.49789253" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -737,7 +489,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Normal title. Correct ordering on subwords" />
     <MESSAGE value="Редизайн. Меню уровней. Шрифты." />
-    <option name="LAST_COMMIT_MESSAGE" value="Редизайн. Меню уровней. Шрифты." />
+    <MESSAGE value="Мелкие правки дизайна. Добавлены кандзи." />
+    <option name="LAST_COMMIT_MESSAGE" value="Мелкие правки дизайна. Добавлены кандзи." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -929,28 +682,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jiten/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-972">
-          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/words/templates/subwords.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="22" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jiten/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="89" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="89" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1010,8 +746,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/words/static/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="82" column="19" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+        <state relative-caret-position="1088">
+          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiten/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiten/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
           <folding />
         </state>
       </provider>
