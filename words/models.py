@@ -47,4 +47,7 @@ class Kanji(models.Model):
     def get_absolute_url(self):
         return reverse('kanji', kwargs={'id': self.id})
 
+    def get_absolute_url2(self):
+        return reverse('kanji2', kwargs={'name': self.name})
+
 # Create your models here.

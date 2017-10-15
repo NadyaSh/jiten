@@ -17,6 +17,10 @@
     <link href="{% static 'css/style.css' %}" rel="stylesheet">
     <!-- Bootstrap theme -->
     <link href="{% static 'css/bootstrap-theme.min.css' %}" rel="stylesheet">
+
+    <script src="{% static 'js/jquery-3.1.1.min.js' %}"></script>
+    <script>window.jQuery || document.write('<script src="{% static 'js/jquery-3.1.1.min.js' %}"><\/script>')</script>
+    <script src="{% static 'js/bootstrap.min.js' %}"></script>
   </head>
 
   <body>
@@ -57,7 +61,9 @@
     <div class="container theme-showcase" role="main">
 
       <!-- Main jumbotron for a primary marketing message or call to action -->
+      {% block title %}
       <h1>Грамматические конструкции<br><small>японского языка</small></h1>
+      {% endblock title %}
 
       <div class="row">
         {% block menu %}
@@ -72,13 +78,6 @@
 
 
     </div> <!-- /container -->
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="{% static 'js/jquery-3.1.1.min.js' %}"></script>
-    <script>window.jQuery || document.write('<script src="{% static 'js/jquery-3.1.1.min.js' %}"><\/script>')</script>
-    <script src="{% static 'js/bootstrap.min.js' %}"></script>
+   
   </body>
 </html>

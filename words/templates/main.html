@@ -26,7 +26,7 @@
       {% ifchanged w.ext_of %}
         <div class="kata-sym" style="background-image: url({% static 'img/hiragana-chart.png' %}); background-position: -14px -{{ w.ext_of.img_offset }}px;"></div>
       {% endifchanged %}
-      <a href="{% url 'subwords' w.id %}" class="btn btn-default{% if w.num_subs == 0 %} disabled{% endif %}">{{ w.word_jap }}</a>
+      <a href="{% url 'subwords' %}?id={{w.id}}" class="btn btn-default{% if w.num_subs == 0 %} disabled{% endif %}">{{ w.word_jap }}</a>
       {% endfor %}
     </div>
   </div>

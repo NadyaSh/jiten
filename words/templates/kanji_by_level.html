@@ -11,9 +11,13 @@
   </div><!-- /.col-sm-2 -->
 {% endblock menu %}
 
+{% block title %}
+  <h1>Иероглифы<br><small>японского языка</small></h1>
+{% endblock title %}
+
 {% block content %}
 <div class="col-sm-10">
-  <div class="panel panel-success">
+  <div class="panel panel-success" style="display: inline-block;">
     <div class="panel-body">
 
       <ul class="nav nav-tabs mobile-hide">
@@ -21,11 +25,40 @@
         <li role="presentation" class="{% if level == cn.level %}active{% endif %}{% if cn.count == 0 %} disabled{% endif %}"><a href="{% if cn.count > 0 %}{% url 'kanji_by_level' cn.level %}{% else %}#{% endif %}">N{{cn.level}}</a></li>
       {% endfor %}
         </ul>
-
-      {% for kanji in kanjis %}
-        <a class="kanji-list-itm" href="{% url 'kanji' kanji.id %}"><img src="{% static kanji.get_static_url %}" alt=""></a>
-      {% endfor %}
+      {% if level == "5" %}
+        <table id="minetable" style="background-image: url({% static 'img/kanji/victory5_web.gif' %})">
+        </table>
+      {% elif level == "4" %}
+        <table id="minetable" style="background-image: url({% static 'img/kanji/victory4_web.gif' %})">
+        </table>
+      {% endif %}
+      <div id=hidden_container style="display: none;">
+        {% for kanji in kanjis %}
+          <a class="kanji-list-itm" href="{% url 'kanji' kanji.id %}"></a>
+        {% endfor %}
+      </div>
     </div>
   </div>
 </div>
+<script>
+  var cont = $("#minetable");
+  var w = 10;
+  {% if level == "5" %}
+    var h = 11;
+  {% elif level == "4" %}
+    var h = 19;
+  {% endif %}
+  var links = $('#hidden_container').find('a');
+
+  for (var row = 0; row < h; row++) {
+    var row_item = $("<tr/>");
+    for (var column = 0; column < w; column++) {
+      var cell_item = $("<td/>");
+      var link_item = $("<a>").attr("href", $(links[row*w+column]).attr("href"));
+      cell_item.append(link_item);
+      row_item.append(cell_item);
+    }
+    cont.append(row_item);
+  }
+</script>
 {% endblock content %}

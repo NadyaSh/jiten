@@ -83,3 +83,23 @@ em {
 .panel .btn-default {
     margin-bottom: 5px;
 }
+
+#minetable {
+    background-size: cover;
+    width: 800px;
+}
+
+#minetable td {
+    width: 80px;
+    height: 60px;
+    border: 1px solid black;
+}
+
+#minetable td:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+#minetable a {
+    display: block;
+    height: 100%;
+}
