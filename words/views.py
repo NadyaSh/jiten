@@ -70,5 +70,13 @@ class KanjiDetail(TemplateView):
         context['kanji'] = get_object_or_404(Kanji, id=kwargs['id'])
         return context
 
+class KanjiDetail2(TemplateView):
+    template_name = 'kanji_detail.html'
+
+    def get_context_data(self, **kwargs):
+        context = super(KanjiDetail, self).get_context_data(**kwargs)
+        context['section'] = 'kanji'
+        context['kanji'] = get_object_or_404(Kanji, id=kwargs['id'])
+        return context
 
 # Create your views here.
