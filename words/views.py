@@ -90,10 +90,11 @@ class KanjiDetail2(TemplateView):
         return context
 
 def get_kanji_data(request):
-    folder = './words/static/img/kanji/3_static/'
+    folder = './words/static/img/kanji/1_static/'
     for filename in os.listdir(folder):
-        kanji = Kanji(name=filename[:4], level=3, file_name=filename[:4])
+        kanji = Kanji(name=filename[:4], level=1, file_name=filename[:4])
         kanji.save()
         print(filename[:4])
     return JsonResponse({})   
+
 # Create your views here.

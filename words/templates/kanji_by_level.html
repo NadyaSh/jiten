@@ -18,7 +18,7 @@
 {% block content %}
 <div class="col-sm-10">
   <div class="panel panel-success" style="display: inline-block;">
-    <div class="panel-body">
+    <div class="panel-body" style="height: 690px; width: 850px; overflow-y: auto; overflow-x: hidden;">
 
       <ul class="nav nav-tabs mobile-hide">
       {% for cn in count_by_level|dictsortreversed:"level" %}
@@ -30,6 +30,15 @@
         </table>
       {% elif level == "4" %}
         <table id="minetable" style="background-image: url({% static 'img/kanji/victory4_web.gif' %})">
+        </table>
+      {% elif level == "3" %}
+        <table id="minetable" style="background-image: url({% static 'img/kanji/victory3_web.gif' %})">
+        </table>
+      {% elif level == "2" %}
+        <table id="minetable" style="background-image: url({% static 'img/kanji/victory2_web.gif' %})">
+        </table>
+      {% elif level == "1" %}
+        <table id="minetable" style="background-image: url({% static 'img/kanji/victory1_web.gif' %})">
         </table>
       {% endif %}
       <div id=hidden_container style="display: none;">
@@ -47,6 +56,12 @@
     var h = 11;
   {% elif level == "4" %}
     var h = 19;
+  {% elif level == "3" %}
+    var h = 58;
+  {% elif level == "2" %}
+    var h = 16;
+  {% elif level == "1" %}
+    var h = 102;
   {% endif %}
   var links = $('#hidden_container').find('a');
 
